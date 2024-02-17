@@ -1,0 +1,1 @@
+# spruce-mobile-template-manifest
